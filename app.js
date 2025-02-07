@@ -8,7 +8,7 @@ const iconMap = {
     'Clear': 'clear.png',
     'Clouds': 'cloudy.png',
     'Rain': 'rain.png',
-    'Snow': 'cloudy.png',
+    'Snow': 'snow.png',
     'Thunderstorm': 'thunderstorm.png',
     'Drizzle': 'drizzle.png',
     'Mist': 'mist.png',
